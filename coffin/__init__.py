@@ -1,4 +1,4 @@
-__version__ = (2, 0, '0')
+__version__ = (2, 0, '2')
 
-from common import *
-from static import *
+from .common import *
+from .static import *
